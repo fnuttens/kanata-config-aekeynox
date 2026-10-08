@@ -9,9 +9,9 @@
 (deflayer navigation
   lrld
   f1   f2   f3   f4   f5    @v+   f6   f7   f8   f9   f10  f11  f12
-  XX   @cls bck  fwd  XX    @v-   home pgdn pgup end  @lck @b-  @b+
-  @all @sav S-tab tab XX    @v0   lft  down up   rght XX   _
-  @ndo @cut @cpy @pst @rdo   _    @mwl @mwd @mwu @mwr XX
+  XX   @cls bck  fwd  @nwd  @v-   home pgdn pgup end  @lck @b-  @b+
+  @all S-tab @sav tab @swp  @v0   lft  down up   rght XX   _
+  @ndo @cut @cpy @pst @pwd   _    @mwl @mwd @mwu @mwr @rdo
             del              _              @fun
 )
 

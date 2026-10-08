@@ -21,6 +21,9 @@
 ))
 (defalias
   cls C-t
+  nwd C-rght
+  pwd C-lft
+  swp A-tab
 
   0 0
   1 1
