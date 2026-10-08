@@ -139,8 +139,8 @@
 ;;-----------------------------------------------------------------------------
 ;; Triggered by a long press on the spacebar.
 
-(include deflayer/navigation.kbd)      ;; arrows on ESDF, NumPad under the right hand
-;; (include deflayer/navigation_vim.kbd)  ;; arrows on HJKL, advanced keys under the left hand
+;; (include deflayer/navigation.kbd)      ;; arrows on ESDF, NumPad under the right hand
+(include deflayer/navigation_vim.kbd)  ;; arrows on HJKL, advanced keys under the left hand
 
 
 ;;-----------------------------------------------------------------------------
