@@ -112,8 +112,8 @@
 ;;  - by default, brings a Symbols layer
 ;;  - with the `altgr` variant, the right thumb key becomes AltGr/Option
 
-(include deflayer/symbols.kbd)        ;; programming symbols
-;; (include deflayer/symbols_altgr.kbd)  ;; AltGr/Option layer
+;; (include deflayer/symbols.kbd)        ;; programming symbols
+(include deflayer/symbols_altgr.kbd)  ;; AltGr/Option layer
 
 
 ;;-----------------------------------------------------------------------------
