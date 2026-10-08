@@ -58,9 +58,9 @@
 ;;    - the left thumb key becomes Shift
 ;;    - SDF/JKL become Meta/Ctrl/Alt when held
 
-(include defcfg/flavor_ez.kbd)    ;; standard keyboard behavior
+;; (include defcfg/flavor_ez.kbd)    ;; standard keyboard behavior
 ;; (include defcfg/flavor_tt.kbd)    ;; thumb taps
-;; (include defcfg/flavor_hrm.kbd)   ;; thumb taps + home row mods
+(include defcfg/flavor_hrm.kbd)   ;; thumb taps + home row mods
 
 
 ;;-----------------------------------------------------------------------------
