@@ -70,11 +70,11 @@
 ;; keyboard layout, i.e. the layout defined in your system settings.
 ;; Pick your aliases accordingly below.
 
-(include defalias/qwerty.kbd)
+;; (include defalias/qwerty.kbd)
 ;; (include defalias/qwertz.kbd)
 ;; (include defalias/azerty.kbd)
 ;; (include defalias/lafayette.kbd)
-;; (include defalias/ergol.kbd)
+(include defalias/ergol.kbd)
 ;; (include defalias/bepo.kbd)
 
 
