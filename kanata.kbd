@@ -130,8 +130,8 @@
 ;;-----------------------------------------------------------------------------
 ;; Triggered by Sym+Shift.
 
-(include deflayer/numpad.kbd)  ;; right-hand numpad, like on the default Navigation layer
-;; (include deflayer/numrow.kbd)  ;; numbers on the home row, Shift+numbers on the top row
+;; (include deflayer/numpad.kbd)  ;; right-hand numpad, like on the default Navigation layer
+(include deflayer/numrow.kbd)  ;; numbers on the home row, Shift+numbers on the top row
 
 
 ;;-----------------------------------------------------------------------------
