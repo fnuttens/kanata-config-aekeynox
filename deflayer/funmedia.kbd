@@ -12,7 +12,7 @@
 )
 
 (defalias
-  fun (layer-while-held funmedia)
+  fun (tap-hold-press $QUICK_TAP $HOLDING_TERM menu (layer-while-held funmedia))
 
   ;; media keys -- identifiers found in the `str_to_cscode` function:
   ;; https://github.com/jtroo/kanata/blob/main/parser/src/keys/mod.rs#L175
